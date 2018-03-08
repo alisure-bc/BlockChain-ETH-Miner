@@ -100,9 +100,12 @@ https://www.f2pool.com/eth/0x7FD27955637eB54088FE9052AF988916F779b627
 ![](readme/f2pool.png)
 
 
+
 3. 问题
     * 不知道为什么挖到的币会减少。。。可能是矿池有问题，或者是我还没有懂这一切是怎么回事。
     
+![](readme/f2pool2.png)
+
 
 ### 其他
 
